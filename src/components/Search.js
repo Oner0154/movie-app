@@ -85,8 +85,3 @@ const Search = () => {
 
 export default Search;
 
-/* <Container>
-            <Col lg={3}>
-              <Movie key={movie.id} {...movie} />
-            </Col>
-          </Container>; */
